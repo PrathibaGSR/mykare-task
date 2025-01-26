@@ -1,0 +1,31 @@
+{
+    "name": "MyKare Task",
+    "short_name": "MyKare",
+    "theme_color": "#00ff00",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/icon.webp",
+        "type": "image/webp",
+        "sizes": "1024x1024"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "/icon.webp",
+        "sizes": "1024x1024",
+        "type": "image/webp",
+        "form_factor": "wide"
+      },
+      {
+        "src": "/icon.webp",
+        "sizes": "1024x1024",
+        "type": "image/webp"
+      }
+    ]
+  }
+  
